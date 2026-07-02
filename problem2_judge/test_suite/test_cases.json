@@ -1,0 +1,7 @@
+[
+  {
+    "input": "What is Artificial Intelligence?",
+    "expected_output": "Artificial Intelligence is the simulation of human intelligence by machines.",
+    "model_output": "AI is the simulation of human intelligence in machines."
+  }
+]
